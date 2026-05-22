@@ -1,0 +1,7 @@
+# файл .gitignore
+venv/
+__pycache__/
+*.pyc
+.vscode/
+.env
+*.png
